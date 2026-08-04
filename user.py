@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+age=int(input("Enter your age is:"))
+city=input("Enter city is:")
+print("Hello",name)
+print("Your age is:",age)
+print("Your city is",city)
